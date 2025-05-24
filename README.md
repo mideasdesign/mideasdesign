@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Markus Fischer i'm a Frontend Developer, Webdesigner and UX Designer with more than 20 year of experience.</p>
+<p align="left">My name is Markus Fischer i'm a Frontend Developer, Websigner and UX Designer with more than 20 year of experience.</p>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 1998<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
